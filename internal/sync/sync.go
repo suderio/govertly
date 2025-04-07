@@ -4,7 +4,6 @@ import (
 	"bufio"
 	"fmt"
 	"github.com/spf13/viper"
-	"gopkg.in/yaml.v3"
 	"os"
 
 	"github.com/suderio/govertly/internal/gitutils"
