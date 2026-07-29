@@ -6,6 +6,10 @@
   - https://htmlpreview.github.io/?https://github.com/FiloSottile/age/blob/main/doc/age.1.html
 - https://github.com/jedisct1/libsodium ?
 
+## Some considerations
+
+- https://stackoverflow.com/questions/43853548/xdg-basedir-directories-for-windows
+
 ## Why yet another password manager?
 
 - The simplicity of pass without pgp [problems](https://www.latacora.com/blog/2019/07/16/the-pgp-problem/)
